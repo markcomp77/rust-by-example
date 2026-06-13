@@ -59,6 +59,8 @@ MDBOOK_BOOK__LANGUAGE=ja mdbook serve
 ### Polish version
 
 The Polish translation is maintained in `po/pl.po`.
+After GitHub Pages deployment, it can be read online at
+<https://markcomp77.github.io/rust-by-example/>.
 
 ```bash
 MDBOOK_BOOK__LANGUAGE=pl mdbook build
