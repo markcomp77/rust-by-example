@@ -95,6 +95,7 @@ Please see the [TRANSLATING.md] file for more details.
 
 * [Bulgarian](https://github.com/kberov/rust-by-example-bg)
 * [French](https://github.com/Songbird0/FR_RBE)
+* [Polish](https://github.com/markcomp77/rust-by-example)
 * [Russian](https://github.com/ruRust/rust-by-example)
 * [Vietnamese](https://github.com/EyesCrypto-Insights/rust-by-example-vn)
 * [Portuguese](https://github.com/nazarepiedady/rust-com-exemplos)
