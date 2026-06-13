@@ -779,7 +779,7 @@ msgstr "Plac gier i zabaw"
 
 #: src/index.md:1
 msgid "Rust by Example"
-msgstr "Rdza na przykładzie"
+msgstr "Rust by Example"
 
 #: src/index.md:3
 msgid ""
@@ -801,7 +801,7 @@ msgid ""
 "std/). Additionally for the curious, you can also [check out the source code "
 "for this site](https://github.com/rust-lang/rust-by-example)."
 msgstr ""
-"Rust by Przykład (RBE) to zbiór możliwych do uruchomienia przykładów "
+"Rust by Example (RBE) to zbiór możliwych do uruchomienia przykładów "
 "ilustrujących różne koncepcje Rusta i standardowe biblioteki. Aby wyciągnąć "
 "jeszcze więcej z tych przykładów, nie zapomnij [zainstalować Rusta lokalnie]"
 "(https://www.rust-lang.org/tools/install) i sprawdź [oficjalne dokumenty]"
@@ -2254,7 +2254,7 @@ msgstr "[`std::fmt`](https://doc.rust-lang.org/std/fmt/)"
 #: src/primitives.md:3
 msgid ""
 "Rust provides access to a wide variety of `primitives`. A sample includes:"
-msgstr "Rdza zapewnia dostęp do szerokiej gamy „prymitywów”. Próbka zawiera:"
+msgstr "Rust zapewnia dostęp do szerokiej gamy `primitives`. Przykłady obejmują:"
 
 #: src/primitives.md:5
 msgid "Scalar Types"
@@ -7117,7 +7117,7 @@ msgid ""
 "one or more functions and/or produce a more useful function. HOFs and lazy "
 "iterators give Rust its functional flavor."
 msgstr ""
-"Rdza zapewnia funkcje wyższego rzędu (HOF). Są to funkcje, które przyjmują "
+"Rust zapewnia funkcje wyższego rzędu (HOF). Są to funkcje, które przyjmują "
 "jedną lub więcej funkcji i/lub tworzą bardziej użyteczną funkcję. HOF i "
 "leniwe iteratory nadają Rustowi funkcjonalny charakter."
 
@@ -12553,7 +12553,7 @@ msgid ""
 "Rust doesn't have \"inheritance\", but you can define a trait as being a "
 "superset of another trait. For example:"
 msgstr ""
-"Rdza nie ma „dziedziczenia”, ale można zdefiniować cechę jako nadzbiór innej "
+"Rust nie ma „dziedziczenia”, ale można zdefiniować cechę jako nadzbiór innej "
 "cechy. Na przykład:"
 
 #: src/trait/supertraits.md:10
