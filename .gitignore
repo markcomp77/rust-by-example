@@ -1,6 +1,8 @@
 book
 
 po/messages.pot
+messages.mo
+*.po~
 
 .vscode/
 

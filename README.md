@@ -1,5 +1,16 @@
 # Rust By Example
 
+## Polish translation fork
+
+This repository is a fork of
+[rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example).
+It contains the Polish translation catalog, translation status notes, glossary,
+and helper scripts used to maintain the Polish version of Rust By Example.
+
+This fork is not an official Rust Project publication unless the translation is
+accepted upstream. The original Rust By Example project is maintained by the Rust
+Project contributors.
+
 [![Build Status](https://github.com/rust-lang/rust-by-example/actions/workflows/rbe.yml/badge.svg)](https://github.com/rust-lang/rust-by-example/actions)
 
 Learn Rust with examples (Live code editor included)
@@ -41,6 +52,19 @@ cargo install mdbook
 MDBOOK_BOOK__LANGUAGE=ja mdbook build
 MDBOOK_BOOK__LANGUAGE=ja mdbook serve
 ```
+
+### Polish version
+
+The Polish translation is maintained in `po/pl.po`.
+
+```bash
+MDBOOK_BOOK__LANGUAGE=pl mdbook build
+MDBOOK_BOOK__LANGUAGE=pl mdbook serve
+```
+
+Current translation status is tracked in [`STATUS_PL.md`](STATUS_PL.md).
+Translation conventions and terminology are documented in
+[`TRANSLATING_PL.md`](TRANSLATING_PL.md) and [`po/GLOSSARY.md`](po/GLOSSARY.md).
 
 ## Contributing
 
