@@ -1,4 +1,7 @@
-# Rust By Example
+# Rust By Example - polskie tłumaczenie
+
+To jest fork projektu [Rust By Example](https://github.com/rust-lang/rust-by-example)
+utrzymujący polskie tłumaczenie w katalogu `po/`.
 
 ## Polish translation fork
 
